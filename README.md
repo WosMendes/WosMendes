@@ -14,7 +14,6 @@
 <a href='https://twitter.com/wos_mendes'><img alt='My Twitter Page' src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-48.png"/></a>
 
 ## My Development Stack
-
 ### Programming Languages
 <code><img src="https://img.icons8.com/color/50/000000/dart.png" width="48"/></code> <code><img src="https://img.icons8.com/color/50/000000/c-programming.png" width="48"/></code> <code><img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png" width="48"/></code> <code><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-64.png" width="48"/></code>
 
@@ -23,6 +22,9 @@
 
 ### Game Development
 <code><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" width="48"/></code>
+
+## Other Projects
+<a href='https://play.google.com/store/apps/details?id=com.Sonante.FTK&hl=pt_BR'> <code><img alt='My Game Find The Key' src="https://play-lh.googleusercontent.com/nsAa8P3lrgDfnjVNbA4jpmOCNLcTPx_KnDskptgwdc0155gzSROGe5lEGbEW0yXP-GU=s360" width="48"/></code></a>
 
 <p align="right">
   <a href="#">
