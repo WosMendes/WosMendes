@@ -16,13 +16,13 @@
 ## My Development Stack
 
 ### Programming Languages
-<code><img src="https://img.icons8.com/color/50/000000/c-programming.png" width="64"/></code> <code><img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png" width="64"/></code> <code><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-64.png"/></code>
+<code><img src="https://img.icons8.com/color/50/000000/c-programming.png" width="48"/></code> <code><img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png" width="48"/></code> <code><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-64.png" width="48"/></code>
 
 ### Mobile
-<code><img src="https://img.icons8.com/fluency/50/000000/flutter.png" width="64"/></code>
+<code><img src="https://img.icons8.com/fluency/50/000000/flutter.png" width="48"/></code>
 
 ### Game Development
-<code><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" width="64"/></code>
+<code><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" width="48"/></code>
 
 <p align="right">
   <a href="#">
