@@ -26,7 +26,7 @@
 
 <p align="right">
   <a href="#">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=wosmendes.wosmendes"/>
+      <img src="https://visitor-badge.glitch.me/badge?page_id=wosmendes.README"/>
    </a>
 </p>
 
