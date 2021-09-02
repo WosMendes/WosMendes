@@ -24,9 +24,11 @@
 ### Game Development
 <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=wosmendes.wosmendes)
-
-
+<p align="right">
+  <a href="#">
+      <img src="https://visitor-badge.glitch.me/badge?page_id=wosmendes.wosmendes"/>
+   </a>
+</p>
 
 <!---
 WosMendes/WosMendes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
