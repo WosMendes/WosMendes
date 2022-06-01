@@ -2,7 +2,6 @@
 
 ### About me:
 - 👨‍🎓: I'm a **Computer Science** student at the State University of Ceará;
-- 👀 I'm looking for my **first professional experience** with development;
 - 🌱 I’m currently learning **Flutter/Dart**;
 - 🕹️ I love to **play** and **develop** videogames in my spare time;
 - 💬 **_Feel free to send me a message!_** 
