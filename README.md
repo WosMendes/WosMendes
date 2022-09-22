@@ -7,8 +7,8 @@
 
 <div align="right"><a href='https://www.linkedin.com/in/wosley-mendes-rocha-405159a2'> <img alt='My Linkedin Page' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='mailto:wosleymr@gmail.com"'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href='https://www.instagram.com/wosmendes/'><img alt='My Instagram Page' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href='https://twitter.com/wos_mendes'><img alt='My Twitter Page' src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a></div>
+<!-- <a href='https://www.instagram.com/wosmendes/'><img alt='My Instagram Page' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href='https://twitter.com/wos_mendes'><img alt='My Twitter Page' src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> --> </div>
 
 ## Development Stack
 ### Programming Languages
