@@ -2,7 +2,7 @@
 
 ### About me:
 - 👨‍🎓: I'm a **Computer Science** student at the State University of Ceará;
-- 🌱 I’m currently learning **Flutter/Dart**;
+- 🌱 I’m a **Flutter/Dart** developer;
 - 🕹️ I love to **play** and **develop** videogames in my spare time;
 
 <div align="right"><a href='https://www.linkedin.com/in/wosley-mendes-rocha-405159a2'> <img alt='My Linkedin Page' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
