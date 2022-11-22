@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Wos Mendes:
 💻: Flutter developer at Grupo Boticário;<br>👨‍🎓: Computer Science student at the State University of Ceará;<br>🕹️: I love to play and develop videogames in my spare time;
 ## 🌐 Socials:
-<img alt='My Linkedin Page' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br> <br>
+<a href=https://www.linkedin.com/in/wosley-mendes-405159a2><img alt='My Linkedin Page' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br> <br>
 
 
 # 💻 Tech Stack:
