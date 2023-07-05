@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 <!--# 👋 Hi, I'm Wos Mendes:
 💻: Flutter developer at Grupo Boticário;<br>👨‍🎓: Computer Science student at the State University of Ceará;<br>🕹️: I love to play and develop videogames in my spare time; -->
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WosMendes&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=WosMendes&theme=darcula&hide_border=false&include_all_commits=false&count_private=false) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WosMendes&theme=darcula&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WosMendes&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WosMendes&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
 
