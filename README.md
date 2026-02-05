@@ -5,10 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 <!--# 👋 Hi, I'm Wos Mendes:
 💻: Flutter developer at Grupo Boticário;<br>👨‍🎓: Computer Science student at the State University of Ceará;<br>🕹️: I love to play and develop videogames in my spare time; -->
-## 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=WosMendes&theme=darcula&hide_border=false&include_all_commits=false&count_private=false) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=WosMendes&theme=darcula&hide_border=false)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WosMendes&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
 
@@ -22,9 +18,5 @@ You can click the Preview link to take a look at your changes.
 <!--
 ## Personal Projects: 
 <a href='https://play.google.com/store/apps/details?id=com.Sonante.FTK&hl=pt_BR'> <code><img alt='My Game Find The Key' src="https://play-lh.googleusercontent.com/nsAa8P3lrgDfnjVNbA4jpmOCNLcTPx_KnDskptgwdc0155gzSROGe5lEGbEW0yXP-GU=s360" width="34"/></code></a> <br> <br>
-
--->
-
-[![](https://visitcount.itsvg.in/api?id=WosMendes&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
