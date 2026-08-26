@@ -1,22 +1,39 @@
-<!---
-WosMendes/WosMendes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Olá! 👋
 
-<!--# 👋 Hi, I'm Wos Mendes:
-💻: Flutter developer at Grupo Boticário;<br>👨‍🎓: Computer Science student at the State University of Ceará;<br>🕹️: I love to play and develop videogames in my spare time; -->
+Desenvolvedor de Software focado em mobile com **Flutter**, além de entusiasta e criador de jogos 2D nas horas vagas.
 
 ---
 
-## 🌐 Socials:
-<a href=https://www.linkedin.com/in/wosley-mendes-405159a2><img alt='My Linkedin Page' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br> <br>
+### 🚀 Sobre Mim
+- 📱 Foco em desenvolvimento mobile com **Flutter & Dart**
+- 🛠️ Boas práticas, CI/CD, monitoramento e qualidade de código
+- 🎮 Game dev hobbyist (foco em jogos 2D com **Godot & Unity**)
+
+---
+
+### 💻 Stack & Ferramentas
+
+#### Mobile & Core
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### DevOps, Qualidade & Ferramentas
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### Game Development
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 
-## 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br> <br>
+---
 
-<!--
-## Personal Projects: 
-<a href='https://play.google.com/store/apps/details?id=com.Sonante.FTK&hl=pt_BR'> <code><img alt='My Game Find The Key' src="https://play-lh.googleusercontent.com/nsAa8P3lrgDfnjVNbA4jpmOCNLcTPx_KnDskptgwdc0155gzSROGe5lEGbEW0yXP-GU=s360" width="34"/></code></a> <br> <br>
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/wosley-mendes-405159a2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wosleymr@gmail.com)
