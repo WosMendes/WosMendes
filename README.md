@@ -1,4 +1,4 @@
-# Olá, sou o Wosley! 👋 
+# Olá, sou o Wosley! 👋
 
 Desenvolvedor de Software focado em mobile com **Flutter**, além de entusiasta e criador de jogos 2D nas horas vagas.
 
